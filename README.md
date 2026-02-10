@@ -1,4 +1,4 @@
-![logo](https://github.com/patilmanjunath0410/patilmanjunath0410/blob/main/GitHub%20Banner.png.jpg)
+
 
 <h1 align="center">Hi 👋, I'm kavyashree</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
