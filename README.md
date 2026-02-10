@@ -3,12 +3,18 @@
 <h1 align="center">Hi 👋, I'm kavyashree</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
-- I’m currently learning **Frameworks, AI Tools etc**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=patilmanjunath0410&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+- 🌱 I’m currently learning **Frameworks, AI Tools etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kavya-shree2005" target="blank">
-  
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="kavyashree linkedin" height="30" width="40" />
   </a>
 </p>
 
