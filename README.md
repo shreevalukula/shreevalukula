@@ -34,11 +34,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patilmanjunath0410&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreevalukula&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patilmanjunath0410&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreevalukula&show_icons=true&locale=en" />
 </p>
 
 <p>
