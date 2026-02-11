@@ -73,6 +73,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
 </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreevalukula&show_icons=true&locale=en&layout=compact" alt="shreevalukula's Top Languages"/>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreevalukula&show_icons=true&locale=en" alt="shreevalukula's GitHub Stats"/>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreevalukula" alt="shreevalukula's GitHub Streak"/>
+</p>
 
 
 
