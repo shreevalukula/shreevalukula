@@ -15,8 +15,7 @@
          alt="kavyashree linkedin" height="30" width="40" />
   </a>
 </p>
-
-###Frontend
+<h5>Frontend</h5>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
@@ -26,7 +25,7 @@
   </a>
 </p>
 
-###Backend
+<h5>Backend</h5>
 <p align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -39,7 +38,7 @@
   </a>
 </p>
 
-###Databases
+<h5>Databases</h5>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
@@ -55,7 +54,7 @@
   </a>
 </p>
 
-###Cloud & DevOps
+<h5>Cloud & DevOps</h5>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
@@ -68,7 +67,7 @@
   </a>
 </p>
 
-###Programming Languages
+<h5>Programming Languages</h5>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
@@ -76,14 +75,4 @@
 </p>
 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreevalukula&show_icons=true&locale=en&layout=compact" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreevalukula&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreevalukula&" />
-</p>
